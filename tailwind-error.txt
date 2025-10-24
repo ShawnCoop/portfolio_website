@@ -1,0 +1,2 @@
+npm error could not determine executable to run
+npm error A complete log of this run can be found in: C:\Users\shawn\AppData\Local\npm-cache\_logs\2025-10-22T21_33_28_649Z-debug-0.log
